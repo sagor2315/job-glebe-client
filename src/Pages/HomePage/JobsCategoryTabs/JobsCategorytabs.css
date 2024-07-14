@@ -1,0 +1,8 @@
+.buttonBig {
+  width: 100px;
+  transition: width 2s;
+}
+
+.buttonBig:hover {
+  width: 100%;
+}
